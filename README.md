@@ -49,10 +49,10 @@
 Главная страница приложения будет содержать вверху строку поиска, снизу кнопки для переключения страниц, а в центре будут отображаться блоки с персонажами и краткой информацией `Изображение` и `Имя`.
 
 <p align = "center">
-    <img src = "images/1-1.png">
-    <img src = "images/1-2.png">
+    <img src = "images/1-1.jpg">
+    <img src = "images/1-2.jpg">
     <br>
-    <img src = "images/1-3.png">
+    <img src = "images/1-3.jpg">
 </p>
 
 Вот код главной страницы:
@@ -237,8 +237,8 @@
 ```
 
 <p align = "center">
-    <img src = "images/2-1.png">
-    <img src = "images/2-2.png">
+    <img src = "images/2-1.jpg">
+    <img src = "images/2-2.jpg">
 </p>
 
 Организация данных:
@@ -547,8 +547,8 @@ class MainActivity : AppCompatActivity() {
 Работа страницы подробной информации о персонаже организована в `AboutCharacter.kt`
 
 <p align = "center">
-    <img src = "images/3-1.png">
-    <img src = "images/3-2.png">
+    <img src = "images/3-1.jpg">
+    <img src = "images/3-2.jpg">
 </p>
 
 ```kotlin
